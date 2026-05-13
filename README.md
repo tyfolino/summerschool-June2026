@@ -1,50 +1,53 @@
-# URSSI Winter School 2025
+# URSSI Summer School June 2026
 ---
 
 ## Discussion and notes
 
-[Zulip chatroom](https://urssi-softwareschool.zulipchat.com/) (join `#December-2025` channel)
+[Zulip chatroom](https://urssi-softwareschool.zulipchat.com/) (join `#June-2026` channel)
 
 [HackMD notepad](https://hackmd.io/@kyleniemeyer/SyfQNc2Mbg/edit) (for collaborative note-taking)
 
-Wifi: `eduroam` or `Visitor`
-
-[Additional packaging slides](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing)
+Wifi: `eduroam` or [`NUwave-guest`](https://service.northeastern.edu/tech?id=kb_article_view&sysparm_article=KB0013941&sys_kb_id=7c0ba79d475c0314a75b2172e36d4318&spa=1)
 
 --- 
 
-15-17 December 2025, Portland OR
+8-10 June 2026, Boston MA
 
-Welcome to the repository for the 2025 URSSI Winter School! All instruction will happen in the [Oregon State University Portland Center](https://portland.oregonstate.edu), room 2029.
-
-OSU Portland Center is located in the Meier & Frank Building, which is access controlled. Please show the [guest pass](https://github.com/si2-urssi/winterschool-Dec2025/blob/main/OSU-guest-pass.png) at the entrance to the security guard (via the camera) to enter.
+Welcome to the repository for the 2026 URSSI Summer School! 
+All instruction will happen in the [EXP building at Northeastern University](https://maps.app.goo.gl/QAWREutT46fWLEKQ9), room 201.
 
 ## Tentative schedule
 
 | Time | Topic  | Resources  | Instructor
 |:--|:--|:--|:--|
-| 15th, 9-10am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
-| 15th, 10-10:30am  | [Managing environments](https://softwaredevengresearch.github.io/software-development-research/managing-environment-revealjs.html#/) |  | Kyle
-| 15th, 10:30am-12pm | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | | Joanna
-| 15th, 12-1:30pm | Lunch | |
-| 15th, 1:30-2:30pm | [Structuring Python packages](https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/), work time |  | Joanna
-| 15th, 3-5pm     | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), work time |  | Madicken
-| 16th, 9am-12pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Joanna
-| 16th, 12-1:30pm | Lunch | |
-| 16th, 1:30-3pm | [Remote development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/), work time | | Joanna
-| 16th, 3-5pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
-| 16th, 6pm | Group Dinner @ [Deschutes Portland Public House](https://deschutesbrewery.com/pages/portland-public-house), 210 NW 11th Ave | |
-| 17th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), work time | | Kyle
-| 17th, 10:30am-12pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
-| 17th, 12pm | close | |
+| 8th, 9-10am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
+| 8th, 10-10:30am  | [Managing environments](https://softwaredevengresearch.github.io/software-development-research/managing-environment-revealjs.html#/) |  | Kyle
+| 8th, 10:30am-12pm | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | | TBD
+| 8th, 12-1:30pm | Lunch | |
+| 8th, 1:30-2pm | [Structuring Python packages](https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/) |  | TBD
+| 8th, 2-3pm | work time |  | 
+| 8th, 3-4pm     | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html) |  | TBD
+| 8th, 4-5pm     | work time |  | 
+| 9th, 9-10:30am  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | 
+| 9th, 10:30am-12pm  | work time |  | 
+| 9th, 12-1:30pm | Lunch | |
+| 9th, 1:30-2pm | [Remote development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/) | | TBD
+| 9th, 2-3pm | work time | | 
+| 9th, 3-4pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/) | | TBD
+| 9th, 4-5pm | work time | | 
+| 10th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) | | Kyle
+| 10th, 10:30am-12pm | work time | | 
+| 10th, 12pm | lunch break | |
+| 10th, 1:30pm-2:30pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
+| 10th, 2:30pm-5pm | work time |  |
 
-Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site on all days.
+Each morning and afternoon session will be split up with a break.
 
 ## Code of Conduct
 
-We have adopted a [code of conduct](https://github.com/si2-urssi/winterschool-Dec2025/blob/main/CODE_OF_CONDUCT.md) for the URSSI Winter School and all associated spaces, both physical and digital. Please review this.
+We have adopted a [code of conduct](https://github.com/si2-urssi/summerschool-June2026/blob/main/CODE_OF_CONDUCT.md) for the URSSI Summer School and all associated spaces, both physical and digital. Please review this.
 
-Also, the URSSI Winter School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
+Also, the URSSI Summer School is a scent-free environment. We would like to ask the participants to refrain from using any scented lotions, perfumes, essential oils, scented antiperspirants, etc., as these make the space inaccessible for folks with asthma, allergies to the scents, or with Multiple Chemical Sensitivity. Having a scent-free environment will help prevent dizziness, nausea, breathing difficulties, headaches, and other issues among our participants.
 
 ## Instructors
 
@@ -52,10 +55,10 @@ Also, the URSSI Winter School is a scent-free environment. We would like to ask 
 He leads a research group that uses computation to investigate problems involving reacting-fluid flows (particularly combustion and fire) and particle transport, and with a focus on
 how to efficiently use modern high-performance computing systems. He's also an Associate Editor-in-Chief of the [_Journal of Open Source Software_ (JOSS)](https://joss.theoj.org).
 
-[Madicken Munk](https://github.com/munkm) is an Assistant Professor in the School of Nuclear Science and Engineering at Oregon State University. Previously, she was a postdoc at the University of Illinois' National Center for Supercomputing Applications where she was a maintainer and release manager of yt, a visualization package for simulation data.
+[Richard West](https://www.northeastern.edu/comocheng/) is a Professor of Chemical Engineering at Northeastern University. His group develops detailed microkinetic models for complex reacting systems, and develops open-source tools like [Reaction Mechanism Generator](https://rmg.mit.edu/) and [Cantera](https://cantera.org).
+This work is applied to fields including combustion, PFAS remediation, heterogeneous catalysis, and electrochemistry.
 
-[Joanna Piper Morgan](https://jpmorgan98.github.io) is a Postdoctoral Scholar in the Nuclear Criticality Safety Division at
-Lawrence Livermore National Laboratory. She received her PhD in Mechanical Engineering at Oregon State University, working on techniques for modeling time-dependent neutron transport using Monte Carlo methods, and specifically strategies for doing this on high-performance/heterogeneous computing systems enabled by Python.
+TBD
 
 ## Requirements
 
