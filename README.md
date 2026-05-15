@@ -14,7 +14,8 @@ Wifi: `eduroam` or [`NUwave-guest`](https://service.northeastern.edu/tech?id=kb_
 8-10 June 2026, Boston MA
 
 Welcome to the repository for the 2026 URSSI Summer School! 
-All instruction will happen in the [EXP building at Northeastern University](https://maps.app.goo.gl/QAWREutT46fWLEKQ9), room 201.
+All instruction will happen in room 315 in the [Behrakis Health Sciences Center](https://maps.app.goo.gl/qx8yPm1672sKyJVz8) on Northeastern University's Boston Campus.
+Overnight accommodation will be in the [West Village B](https://www.canva.com/design/DAHCQTiUlpI/Dh4quWSh0Kx_8uPK5ft5JQ/view) apartment style housing.
 
 ## Tentative schedule
 
@@ -69,7 +70,7 @@ You will need a laptop with a Mac, Linux, or Windows operating system (not a tab
 - Python 3.x; we recommend installing [miniforge](https://conda-forge.org/download/) for simplicity and install packages to environments as needed 
 - a text editor, preferably one designed for writing code; we recommend [VS Code](https://code.visualstudio.com) or [Sublime Text](https://www.sublimetext.com)
 
-You should also sign up for a [GitHub](https://github.com/) account if you don't already have one.
+You should also sign up for a [GitHub](https://github.com/) account if you don't already have one. Sign up for the [Student Developer Pack](https://education.github.com/pack) if you are eligible.
 
 Specific Python packages (install with `pip` or `conda`):
 - `pytest`
