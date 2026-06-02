@@ -5,8 +5,6 @@
 
 [Zulip chatroom](https://urssi-softwareschool.zulipchat.com/) (join `#June-2026` channel)
 
-[HackMD notepad](https://hackmd.io/@kyleniemeyer/SyfQNc2Mbg/edit) (for collaborative note-taking)
-
 Wifi: `eduroam` or [`NUwave-guest`](https://service.northeastern.edu/tech?id=kb_article_view&sysparm_article=KB0013941&sys_kb_id=7c0ba79d475c0314a75b2172e36d4318&spa=1)
 
 --- 
