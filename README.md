@@ -38,7 +38,7 @@ Overnight accommodation will be in the [West Village B](https://www.canva.com/de
 | 9th, 3:30-5pm | Panel discussion on industry career paths | | TBD
 | 10th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) | | Su
 | 10th, 10:30am-12pm | work time | | 
-| 10th, 12pm | lunch break | |
+| 10th, 12-1:30pm | lunch break | |
 | 10th, 1:30pm-2:30pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
 | 10th, 2:30pm-5pm | work time |  |
 
