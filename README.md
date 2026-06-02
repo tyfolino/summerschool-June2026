@@ -23,20 +23,20 @@ Overnight accommodation will be in the [West Village B](https://www.canva.com/de
 |:--|:--|:--|:--|
 | 8th, 9-10am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) |  | Kyle
 | 8th, 10-10:30am  | [Managing environments](https://softwaredevengresearch.github.io/software-development-research/managing-environment-revealjs.html#/) |  | Kyle
-| 8th, 10:30am-12pm | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | | TBD
+| 8th, 10:30am-11:15am | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | | Richard
+| 8th, 11:15am-12pm | [Structuring Python packages](https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/) |  | Ty
 | 8th, 12-1:30pm | Lunch | |
-| 8th, 1:30-2pm | [Structuring Python packages](https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/) |  | TBD
-| 8th, 2-3pm | work time |  | 
-| 8th, 3-4pm     | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html) |  | TBD
-| 8th, 4-5pm     | work time |  | 
-| 9th, 9-10:30am  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | 
+| 8th, 1:30-2:30pm | work time |  | 
+| 8th, 2:30-3:30pm     | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html) |  | Ty & Richard
+| 8th, 3:30-4:15pm | work time |  | 
+| 8th, 4:15-5pm     | Panel discussion on appropriate use of AI tools |  | all
+| 9th, 9-10:30am  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures) |  | Su
 | 9th, 10:30am-12pm  | work time |  | 
 | 9th, 12-1:30pm | Lunch | |
-| 9th, 1:30-2pm | [Remote development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/) | | TBD
-| 9th, 2-3pm | work time | | 
-| 9th, 3-4pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/) | | TBD
-| 9th, 4-5pm | work time | | 
-| 10th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) | | Kyle
+| 9th, 1:30-2:30pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/) | | Ty
+| 9th, 2:30-3:30pm | work time | | 
+| 9th, 3:30-5pm | Panel discussion on industry career paths | | TBD
+| 10th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) | | Su
 | 10th, 10:30am-12pm | work time | | 
 | 10th, 12pm | lunch break | |
 | 10th, 1:30pm-2:30pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
